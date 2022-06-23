@@ -278,6 +278,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/calendly.com\/non-fungible-studio\/discovery-call"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
