@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/calendly.com\/non-fungible-studio\/discovery-call"
+                 "value":"https:\/\/v1.embednotion.com\/embed\/797844c3771b4b0bb4d7ed6009bde507"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
